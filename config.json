@@ -1,0 +1,22 @@
+{
+    "author": "sicctf23{h@teRSSS_Ar3_V1s1bL3_s0mmmEt1me2}",
+    "api_token": "",
+    "id_group": "",
+    "id_group": 0,
+    "interval": 1500,
+    "limit": 2.0,
+    "messages":
+    [
+        "надеюсь Вы обанкротитесь",
+        "чтоб вы сдохли!!!!!",
+        "вы просто свборище уродов",
+        "уроды",
+        "мрази"
+    ],
+
+    "settings": {
+        "api_version": "5.131",
+        "from_group": 1,
+        "url": "https://api.vk.com/method/wall.createComment"
+    }
+}
